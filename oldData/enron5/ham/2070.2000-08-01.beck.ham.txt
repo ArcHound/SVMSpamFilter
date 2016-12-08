@@ -1,8 +1,8 @@
-Subject: new hires week of 7 / 31
+Subject new hires week of   
 name supervisor title start date
-michael mousteiko ( lisa peterson ) spec 7 / 31
-julie boehl ( kathy kelly ) spec 7 / 31
-susan elledge ( linda bryan ) spec 7 / 31
-natalie baker ( carrie hollomon ) srspec 8 / 1
-lia hernandez ( edterry ) srspec 8 / 2
-kevin brady ( george smith ) staff 8 / 3
+michael mousteiko  lisa peterson  spec   
+julie boehl  kathy kelly  spec   
+susan elledge  linda bryan  spec   
+natalie baker  carrie hollomon  srspec   
+lia hernandez  edterry  srspec   
+kevin brady  george smith  staff   

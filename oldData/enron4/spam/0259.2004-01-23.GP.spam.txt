@@ -1,2 +1,2 @@
-Subject: = ? iso - 8859 - 7 ? q ? = 5 b = 3 f = 5 d _ cc : the _ pen = eds _ pill _ is _ amazing _ you _ have _ to _ t ? =
-= ? iso - 8859 - 7 ? q ? ry _ it ? =
+Subject   iso      q    b   f   d  cc  the  pen  eds  pill  is  amazing  you  have  to  t  
+  iso      q  ry  it  

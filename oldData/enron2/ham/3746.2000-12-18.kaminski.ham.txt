@@ -1,11 +1,11 @@
-Subject: confirmation of your order
+Subject confirmation of your order
 this is an automatic confirmation of the order you have placed using it
-central .
-request number : ecth - 4 s 5 sy 2
-order for : amitava dhar
-1 x ( compaq armada m 700 $ 3297 )
-1 x ( option : m 300 / m 700 convenience base $ 293 )
-1 x ( option : carry case for m 700 $ 72 )
-1 x ( option : m 300 / m 700 universal ac adapter with power cord $ 59 )
-1 x ( option : m 300 / m 700 universal battery charger $ 124 )
-1 x ( option : m 700 8 cell li - ion battery $ 149 ) enron it purchasing
+central 
+request number  ecth   s  sy 
+order for  amitava dhar
+ x  compaq armada m    
+ x  option  m   m  convenience base   
+ x  option  carry case for m    
+ x  option  m   m  universal ac adapter with power cord   
+ x  option  m   m  universal battery charger   
+ x  option  m   cell li  ion battery    enron it purchasing

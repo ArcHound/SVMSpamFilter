@@ -1,8 +1,8 @@
-Subject: if you want to fix anxiety or just party like never before , x - anax _ rnd is what you ' re lookin for
-% rndtext _ 5 _ 14
-% rndtext _ 5 _ 14
+Subject if you want to fix anxiety or just party like never before  x  anax  rnd is what you  re lookin for
+ rndtext    
+ rndtext    
 no
-- - - - - begin pgp signature - - - - -
-version : gnupg vl . 0 . 7 ( gnu / linux )
-nhbqlfivih + fwpgncv 9 / jvy = 8 y
-- - - - - end pgp signature - - - - -
+     begin pgp signature     
+version  gnupg vl      gnu  linux 
+nhbqlfivih  fwpgncv   jvy   y
+     end pgp signature     

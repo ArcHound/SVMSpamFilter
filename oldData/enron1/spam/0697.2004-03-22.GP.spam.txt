@@ -1,7 +1,7 @@
-Subject: delivery failure : ? ? ? ? t 620 ao 24679 coa 81 e 6517 c 4 ( t 620 ao 24679 coa 81 e 6517 c 4 @ marinfonet . com ) ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ?
+Subject delivery failure      t  ao  coa  e  c   t  ao  coa  e  c   marinfonet  com                   
 your message
-subject : re : your text
-was not delivered to :
-t 620 ao 24679 coa 81 e 6517 c 4 @ marinfonet . com
-because :
- $ b % f !
+subject  re  your text
+was not delivered to 
+t  ao  coa  e  c   marinfonet  com
+because 
+  b  f 

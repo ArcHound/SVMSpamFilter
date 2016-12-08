@@ -1,8 +1,8 @@
-Subject: = ? utf - 8 ? q ? paris hilton prefers ? =
-= ? utf - 8 ? q ? rolex , cartier and ? =
-= ? utf - 8 ? q ? breitling ? =
+Subject   utf    q  paris hilton prefers  
+  utf    q  rolex  cartier and  
+  utf    q  breitling  
 genuine reproductions wristwatches
-we offer the following trademarks available besides :
+we offer the following trademarks available besides 
 bvlgari
 vacheron constantin
 glashute original

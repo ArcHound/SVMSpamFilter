@@ -1,4 +1,4 @@
-Subject: enron actuals for january 4 , 2000
-teco tap 110 . 000 / hpl iferc
-teco tap 33 . 750 / enron
-ls hpl - katy ic 22 . 500 / enron
+Subject enron actuals for january   
+teco tap     hpl iferc
+teco tap     enron
+ls hpl  katy ic     enron

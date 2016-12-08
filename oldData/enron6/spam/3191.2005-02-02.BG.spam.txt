@@ -1,4 +1,4 @@
-Subject: re [ 1 ] : question with our meds
+Subject re     question with our meds
 sshleykov
 omorneau
 fleal
@@ -13,11 +13,11 @@ arippolz
 ganderson
 rdiebolt
 a
-less price -
+less price 
 better quality
 world wide
 delivery
-only 1 . 33
+only   
 per dose
 unsubscribe
 me

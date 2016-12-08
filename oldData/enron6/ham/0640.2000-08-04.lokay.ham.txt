@@ -1,2 +1,2 @@
-Subject: nominations
-- 2000 ballot . doc
+Subject nominations
+  ballot  doc

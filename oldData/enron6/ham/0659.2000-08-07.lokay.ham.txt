@@ -1,2 +1,2 @@
-Subject: nesa / hea merger
-- merger announcement . doc
+Subject nesa  hea merger
+ merger announcement  doc

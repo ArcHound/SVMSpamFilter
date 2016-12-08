@@ -1,5 +1,5 @@
-Subject: direct reports
-louise ' s :
+Subject direct reports
+louise  s 
 kevin presto
 dave duran
 tim belden
@@ -9,7 +9,7 @@ max yzaguirre
 julie gomez
 brian redmond
 colleen sullivan
-john ' s :
+john  s 
 phillip allen
 barry tycholiz
 scott neal
@@ -28,4 +28,4 @@ john thompson
 scott josey
 orlando gonzalez
 joe kishkill
-michael l . miller
+michael l  miller

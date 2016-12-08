@@ -1,4 +1,4 @@
-Subject: re [ 8 ] : talk about our health
+Subject re     talk about our health
 razmovski
 emmet
 robert
@@ -11,7 +11,7 @@ kai
 skallman
 nice
 dobrukhina
-1 . 33 $ for per
+    for per
 dose
 unsubscribe
 me

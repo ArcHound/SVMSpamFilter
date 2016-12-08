@@ -1,8 +1,8 @@
-Subject: inferiority complex 6 impresarios
-throw top .
-% rnd _ syb , odium , incite .
+Subject inferiority complex  impresarios
+throw top 
+ rnd  syb  odium  incite 
 more
-^
+
 s
 e
 x
@@ -10,6 +10,6 @@ f
 u
 n
 v
-bogging deactivate . % rnd _ syb
-drown arcade . % rnd _ syb
-, ought dowager . % rnd _ syb
+bogging deactivate   rnd  syb
+drown arcade   rnd  syb
+ ought dowager   rnd  syb

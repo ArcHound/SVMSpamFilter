@@ -1,2 +1,2 @@
-Subject: hi
+Subject hi
 here

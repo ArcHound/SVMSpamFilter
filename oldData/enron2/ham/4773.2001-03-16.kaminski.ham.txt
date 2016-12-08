@@ -1,15 +1,15 @@
-Subject: list of teams and projects
-vince ,
-here is the list of teams and projects .
-there are still a couple of people who have not found their teams yet .
-i will try to put them in one of the existing teams .
+Subject list of teams and projects
+vince 
+here is the list of teams and projects 
+there are still a couple of people who have not found their teams yet 
+i will try to put them in one of the existing teams 
 jason
-teaml : project metalgesselschaft ( mg )
+teaml  project metalgesselschaft  mg 
 lynn nazareth
 javier lamas
 shauywn smith
 carlos wheelock
-team 2 : energy related futures contracts
+team   energy related futures contracts
 john ganguzza
 neeraj hingorani
 grant johnson
@@ -17,21 +17,21 @@ duane maue
 rishad patel
 eric van stone
 paulo yoshiura
-team 3 : standard option contracts
+team   standard option contracts
 yue guo
 fang li
 nan li
 tracy pan
 wei wu
 jeff planck
-team 4 : standard options contract
+team   standard options contract
 felix feng lu
 ning zhang
 rakhi israni
 sanjay wankhade
 winni so
 orlando taylor
-team 5 : power pool analysis
+team   power pool analysis
 elena chilkina
 rob gaudette
 joe helms

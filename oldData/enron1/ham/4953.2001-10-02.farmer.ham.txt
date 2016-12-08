@@ -1,2 +1,2 @@
-Subject: neon
-- awesome agenda . doc
+Subject neon
+ awesome agenda  doc

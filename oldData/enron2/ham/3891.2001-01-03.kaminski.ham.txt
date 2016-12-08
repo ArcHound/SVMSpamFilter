@@ -1,39 +1,38 @@
-Subject: spread option code change
-zhiyang and zhiyun ,
+Subject spread option code change
+zhiyang and zhiyun 
 vince told me that london has some trouble to calculate spread option
-for correl = 1 , voll = vol 2 . in such a case , the effective volatility becomes
-zero , and the option has zero time value .
-i have modified the unitcorrpremium ( ) routine to force the code to treat
-this situation as a special case . ( it returns the discounted intrinsic value ) .
+for correl    voll  vol   in such a case  the effective volatility becomes
+zero  and the option has zero time value 
+i have modified the unitcorrpremium   routine to force the code to treat
+this situation as a special case   it returns the discounted intrinsic value  
 please incorporate this chang to your code so that it will no longer cause
 any
-problems that should not happen in the first place .
-if you have any questions , please let me know .
+problems that should not happen in the first place 
+if you have any questions  please let me know 
 zimin
-- - - - - - - - - - - - - - - - - - - - - - -
-double unitcorrpremium (
-double sl ,
-double s 2 ,
-double strike ,
-double r ,
-double ql ,
-double q 2 ,
-double voll ,
-double vol 2 ,
-double correl ,
-double tmat ,
+                      
+double unitcorrpremium 
+double sl 
+double s  
+double strike 
+double r 
+double ql 
+double q  
+double voll 
+double vol  
+double correl 
+double tmat 
 int opttype
-)
-{
-double retval ;
-if ( tmat < = 0 . 0 )
-return intrinsic ( sl , s 2 , strike , opttype ) ;
-/ / look right here for the change , only two lines .
-if ( ( 1 . 0 - correl ) < tiny &
-setup ( sl , s 2 , strike , r , ql , q 2 , voll , vol 2 , correl , tmat ) ;
-if ( opttype )
-retval = s . disc * gauherint ( ffuncoc ) / sqrtpi ;
+
+
+double retval 
+if  tmat      
+return intrinsic  sl  s   strike  opttype  
+  look right here for the change  only two lines 
+if       correl   tiny 
+setup  sl  s   strike  r  ql  q   voll  vol   correl  tmat  
+if  opttype 
+retval  s  disc  gauherint  ffuncoc   sqrtpi 
 else
-retval = s . disc * gauherint ( ffuncop ) / sqrtpi ;
-return retval ;
-}
+retval  s  disc  gauherint  ffuncop   sqrtpi 
+return retval 
